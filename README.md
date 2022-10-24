@@ -5,3 +5,4 @@ A collection of Solidity articles and blogs that I found helpful while learning 
 ## Links
 
 - [Immutable variables](https://blog.soliditylang.org/2020/05/13/immutable-keyword/)
+- [EVM Opcodes](https://www.evm.codes/)
